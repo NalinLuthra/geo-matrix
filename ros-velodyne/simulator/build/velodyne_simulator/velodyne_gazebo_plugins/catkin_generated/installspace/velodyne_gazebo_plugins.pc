@@ -1,0 +1,8 @@
+prefix=/home/nalin/geo-matrix/ros-velodyne/simulator/install
+
+Name: velodyne_gazebo_plugins
+Description: Description of velodyne_gazebo_plugins
+Version: 1.0.9
+Cflags: -I/home/nalin/geo-matrix/ros-velodyne/simulator/install/include -I/usr/include -I/usr/include/gazebo-7 -I/usr/include/sdformat-4.0 -I/usr/include/ignition/math2 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging
+Libs: -L/home/nalin/geo-matrix/ros-velodyne/simulator/install/lib -lgazebo_ros_velodyne_laser -lgazebo_ros_velodyne_gpu_laser
+Requires: roscpp sensor_msgs gazebo_ros

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nalin/geo-matrix/ros-velodyne/simulator/install/setup.sh

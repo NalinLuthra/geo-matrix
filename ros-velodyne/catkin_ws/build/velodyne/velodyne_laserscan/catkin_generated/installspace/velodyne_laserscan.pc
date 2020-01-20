@@ -1,0 +1,8 @@
+prefix=/home/nalin/geo-matrix/ros-velodyne/catkin_ws/install
+
+Name: velodyne_laserscan
+Description: Description of velodyne_laserscan
+Version: 1.5.2
+Cflags: -I/home/nalin/geo-matrix/ros-velodyne/catkin_ws/install/include
+Libs: -L/home/nalin/geo-matrix/ros-velodyne/catkin_ws/install/lib 
+Requires: sensor_msgs

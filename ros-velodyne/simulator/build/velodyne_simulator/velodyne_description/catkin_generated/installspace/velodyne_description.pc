@@ -1,0 +1,8 @@
+prefix=/home/nalin/geo-matrix/ros-velodyne/simulator/install
+
+Name: velodyne_description
+Description: Description of velodyne_description
+Version: 1.0.9
+Cflags: 
+Libs: -L/home/nalin/geo-matrix/ros-velodyne/simulator/install/lib 
+Requires: 

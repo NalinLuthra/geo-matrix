@@ -1,0 +1,8 @@
+prefix=/home/nalin/geo-matrix/ros-velodyne/catkin_ws/devel
+
+Name: velodyne_msgs
+Description: Description of velodyne_msgs
+Version: 1.5.2
+Cflags: -I/home/nalin/geo-matrix/ros-velodyne/catkin_ws/devel/include
+Libs: -L/home/nalin/geo-matrix/ros-velodyne/catkin_ws/devel/lib 
+Requires: message_runtime std_msgs
